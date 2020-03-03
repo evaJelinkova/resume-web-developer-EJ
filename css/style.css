@@ -204,7 +204,7 @@ h3 {
 
 }
 .social.pinterest:before {
-  background: url("images/iconGH.png");
+  background-image: url('images/iconGH.png');
   /* background: url("https://www.iconfinder.com/icons/298822/github_mark_icon") center no-repeat; */
 }
 .social.linked-in:before {
